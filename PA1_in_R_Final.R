@@ -7,10 +7,9 @@
 ###                                                                         ###
 
 
-###
-### In RStudio, set your working directory. From Menu Bar, go to Session > Set 
-### Working Directory > To Source File Location.
-### 
+ 
+
+
 
 library(FNN)
 library(rpart)
